@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "nikotamalito",
+      "price": "5"
+    },
+    {
+      "id": 4,
+      "name": "William León",
+      "price": 1
+    },
+    {
+      "id": 9,
+      "name": "william leon",
+      "price": 1
+    },
+    {
+      "id": 10,
+      "name": "sebas",
+      "price": 4
+    }
+  ]
+}
